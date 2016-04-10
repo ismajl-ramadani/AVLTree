@@ -15,7 +15,7 @@ it causes stack overflow.
 
 compile using gnu gcc
 
-  g++ useAVL.cpp BinarySearchTree.cpp AVLTree.cpp -w -p
+        g++ useAVL.cpp BinarySearchTree.cpp AVLTree.cpp -w -p
 
 
 ###### References:
