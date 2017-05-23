@@ -8,8 +8,7 @@ the rest is inherited from BinarySearchTree class.
 
 useAVL.cpp is a source code where AVLTree and BSTTree are used, tested and compared.
 When AVL is compared to BST, there's no big differences in search, when elements are inserted in random order.
-But, when elements are added linearly, you even aren't able to insert more than 60k(4k in visual c++) elements in BST, because
-it causes stack overflow.
+
 
 ###### How to use
 
