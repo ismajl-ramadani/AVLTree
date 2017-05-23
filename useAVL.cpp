@@ -71,7 +71,7 @@ int main()
 	}
 	cout << "end" << endl;
 	//compare
-	ompare(sampleBST, sampleAVL, randomElements.at(randomElements.size()-1));
+	compare(sampleBST, sampleAVL, randomElements.at(randomElements.size()-1));
 
 
 }
